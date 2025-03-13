@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **meeturiajaykumar.23@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1q2nGleUpQe13O3jpxGmmXQTFdnIOnCn4/view](https://drive.google.com/file/d/1q2nGleUpQe13O3jpxGmmXQTFdnIOnCn4/view)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1q2nGleUpQe13O3jpxGmmXQTFdnIOnCn4/view](https://drive.google.com/file/d/1q2nGleUpQe13O3jpxGmmXQTFdnIOnCn4/view)](https://meeturi-ajay-kumar.web.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
