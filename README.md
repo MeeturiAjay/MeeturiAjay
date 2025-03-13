@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meeturiajay&label=Profile%20views&color=0e75b6&style=flat" alt="meeturiajay" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Generative AI**
 
-- 💬 Ask me about **Machine Learning, Deep Learning**
+- 💬 Ask me about **Machine Learning, Deep Learning, NLP**
 
 - 📫 How to reach me **meeturiajaykumar.23@gmail.com**
 
