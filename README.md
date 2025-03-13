@@ -6,12 +6,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meeturiajay&label=Profile%20views&color=0e75b6&style=flat" alt="meeturiajay" /> </p>
 
 - 🌱 I’m currently learning **Generative AI**
+  
+- 👨‍💻 All of my projects are available at [My Portfolio](https://meeturi-ajay-kumar.web.app/)
 
 - 💬 Ask me about **Machine Learning, Deep Learning, NLP, Model Development**
 
 - 📫 How to reach me **meeturiajaykumar.23@gmail.com**
 
-- 📄 Know about my experiences ([My Portfolio](https://meeturi-ajay-kumar.web.app/))
+- 📄 Know about my experiences ([My Resume](https://drive.google.com/drive/u/0/folders/1RLC0JNxgQKc7X8M7mPIf0sUKBSieNOaK))
 
 - ⚡ Fun fact **I am funny**
 
