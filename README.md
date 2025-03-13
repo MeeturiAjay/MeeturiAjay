@@ -7,13 +7,11 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👨‍💻 All of my projects are available at [https://meeturi-ajay-kumar.web.app/](https://meeturi-ajay-kumar.web.app/)
-
 - 💬 Ask me about **Machine Learning, Deep Learning, NLP, Model Development**
 
 - 📫 How to reach me **meeturiajaykumar.23@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UDHYLkbPqIPzc9Mhuwbt270aiHpUYeQm/view?usp=sharing](https://drive.google.com/file/d/1UDHYLkbPqIPzc9Mhuwbt270aiHpUYeQm/view?usp=sharing)
+- 📄 Know about my experiences ([My Portfolio](https://meeturi-ajay-kumar.web.app/))
 
 - ⚡ Fun fact **I am funny**
 
