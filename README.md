@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/MeeturiAjay/MeeturiAjay/blob/main/Linkedin_bg_image1.png" alt="Meeturi Ajay Banner" width="1000"/> </p> <img align="right" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" width="400" alt="Coding GIF">
+<p align="center"> <img src="https://github.com/MeeturiAjay/MeeturiAjay/blob/main/Linkedin_bg_image1.png" alt="Meeturi Ajay Banner" width="1000"/>
 <h1 align="center">Hi 👋, I'm Meeturi Ajay Kumar</h1>
 <h3 align="center">A Driven AI Engineer from India.</h3>
 <img align='right' alt='Coding' width='400' src='https://i.makeagif.com/media/4-05-2022/FvBVst.gif'>
