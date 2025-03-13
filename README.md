@@ -1,6 +1,6 @@
 <img src="https://github.com/MeeturiAjay/MeeturiAjay/blob/main/github_banner.jpg" alt="logo" width="1000" height="200">
 <h1 align="center">Hi 👋, I'm Meeturi Ajay Kumar</h1>
-<h3 align="center">A Driven Data Scientist from India.</h3>
+<h3 align="center">A Driven AI Engineer from India.</h3>
 <img align='right' alt='Coding' width='400' src='https://i.makeagif.com/media/4-05-2022/FvBVst.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meeturiajay&label=Profile%20views&color=0e75b6&style=flat" alt="meeturiajay" /> </p>
