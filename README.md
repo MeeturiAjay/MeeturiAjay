@@ -9,7 +9,7 @@
   
 - 👨‍💻 All of my projects are available at [My Portfolio](https://meeturi-ajay-kumar.web.app/)
 
-- 💬 Ask me about **Machine Learning, Deep Learning, NLP, Model Development**
+- 💬 Ask me about **Machine Learning, Deep Learning, NLP, Model Development, Generative AI**
 
 - 📫 How to reach me **meeturiajaykumar.23@gmail.com**
 
