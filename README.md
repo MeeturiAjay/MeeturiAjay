@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Generative AI**
   
-- 👨‍💻 All of my projects are available at [My Portfolio](https://meeturi-ajay-kumar.web.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://meeturi-ajay-kumar.netlify.app/)
 
 - 💬 Ask me about **Machine Learning, NLP, Model Development, Generative AI**
 
