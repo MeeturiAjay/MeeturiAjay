@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **meeturiajaykumar.23@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1bj_elv1yyJLEyFZi5xWt94SrbJPThzCY/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/u/0/mobile/folders/1RLC0JNxgQKc7X8M7mPIf0sUKBSieNOaK?sort=13&direction=a)
 
 - ⚡ Fun fact **I am funny**
 
